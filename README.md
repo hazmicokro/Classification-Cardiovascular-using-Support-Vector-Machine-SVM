@@ -1,1 +1,3 @@
-# Classification Cardiovascular using Support Vector Machine SVM
+# Classification of Cardiovascular Disease Using Support Vector Machine SVM
+
+Author : Hazmi Cokro
