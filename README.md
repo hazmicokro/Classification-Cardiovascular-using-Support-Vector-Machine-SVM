@@ -16,6 +16,6 @@
 
 ![Cardiovascular Disease](https://miro.medium.com/max/500/1*f5yc5miJbqAh-b7ZNjwMlw.gif)
 
-Photo by [Jesse Orrico](https://unsplash.com/photos/Us3AQvyOP-o) on [Unsplash](https://unsplash.com/)
+Animated from Storyset by Freepik
 
 ---
