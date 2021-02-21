@@ -1,4 +1,4 @@
-# Classification of Cardiovascular Disease Using Support Vector Machine SVM
+# Classification of Cardiovascular Disease Using eXtreme Gradient Boosting XGB
 
 Author : Hazmi Cokro
 
