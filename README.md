@@ -19,3 +19,8 @@
 Animated from Storyset by Freepik
 
 ---
+
+| No | Scenario | Accuracy |
+| ------------- | ------------- | ------------- |
+| 0 | XGBoost   | 73.0 %  |
+| 1 | XGBoost + Hyperparameter Tuning   | 74.0 %  |
